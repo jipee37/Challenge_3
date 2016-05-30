@@ -1,0 +1,66 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="cv.css" type="text/css" ?>
+<!DOCTYPE cv SYSTEM "langage.dtd">
+<cv>
+
+<gtitre>
+	Apprenti Developpeur Web 
+</gtitre>
+
+<infoPerso>	
+	<identite>
+		<nom>Jean-Patrice CALVEZ</nom>
+		<age>Né le 15 février 1975</age>
+	</identite>
+	
+	<contact>
+		<adresse>2 rue de l'Orgerie -  35590 SAINT-GILLES
+		</adresse>
+		<telp>+33 6 68 00 56 73</telp>
+		<mail>jipee37@yahoo.fr</mail>
+	</contact>
+	
+	<complement>
+		<situation>célibataire</situation>
+		<permis>Permis B</permis>
+	</complement>
+</infoPerso>
+
+<ptitre>FORMATION</ptitre>
+<formation>
+<intitule>	
+	<annee>04/05/2016-Auj.  :</annee>
+	<nomf>Développeur web, face-simplon, Rennes</nomf>
+</intitule>	
+<intitule>		
+	<annee>2015 (durée) :</annee>
+	<nomf>CLPS, Compétences transverses, Rennes</nomf>
+</intitule>
+<intitule>
+	<annee>2009 (durée) :</annee>
+	<nomf>Conseiller efficacité énergétique et énergies renouvelables, Port-Brillet</nomf>
+</intitule>
+<intitule>
+	<annee>2000  :</annee>
+	<nomf>Maîtrise génie des systèmes industriels (option thermique), Belfort</nomf>
+</intitule>
+<intitule>
+	<annee>1998  :</annee>
+	<nomf>DUT génie thermique et énergie, Lorient</nomf>
+</intitule>
+</formation>
+	
+<ptitre>EXPERIENCES PROFESSIONNELLES</ptitre>
+<date></date>
+
+
+
+
+
+
+
+
+
+
+
+</cv>
